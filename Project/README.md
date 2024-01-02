@@ -11,4 +11,4 @@
 
 ## 项目要求
 
-![image](.\项目要求.jpg)
+![image](https://github.com/tjuDavidWang/HW-ComputerNetwork/blob/main/Project/%E9%A1%B9%E7%9B%AE%E8%A6%81%E6%B1%82.jpg)
